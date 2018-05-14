@@ -1,0 +1,11 @@
+.Timeline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Timeline .Posts {
+    width: 500px;
+    margin-top: 20px;
+}

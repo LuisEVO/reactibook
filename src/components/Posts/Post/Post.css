@@ -1,0 +1,33 @@
+
+.Card {
+    border: 1px solid lightgrey;
+    max-width: 100%;
+    margin-bottom: 10px;
+    min-height: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.Card .Img {
+    padding: 5px 0;
+    max-width: 100%;
+}
+
+.Card .Created {
+    font-size: small;
+    color: #9e9e9e;
+    margin-bottom: 5px;
+}
+
+.Card .Text {
+    font-size: large;
+    margin-bottom: 5px;
+}
+
+.Card .Options {
+    float: right;
+}
+
+
+
+

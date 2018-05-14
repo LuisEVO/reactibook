@@ -1,0 +1,11 @@
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Form {
+    text-align: center;
+    width: 300px;
+}

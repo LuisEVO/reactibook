@@ -1,0 +1,31 @@
+.NewPost {
+    margin-top: 20px;
+}
+
+.Box {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.Textarea {
+    width: 99%;
+    font-size: large;
+    border: none;
+    overflow: auto;
+    outline: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+
+.PreviewImg {
+    max-width: 30%;
+    border-radius: 5px;
+}
+
+.Right {
+    float: right;
+}
