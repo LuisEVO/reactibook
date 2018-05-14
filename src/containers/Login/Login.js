@@ -16,12 +16,12 @@ class LoginContainer extends Component {
           type: 'email',
           placeholder: 'Email'
         },
-        value: 'tester01@reactibook.com',
+        value: '',
         validation: {
           required: true,
           isEmail: true
         },
-        valid: true,
+        valid: false,
         errors: [],
         touched: false
       },
@@ -30,12 +30,12 @@ class LoginContainer extends Component {
           type: 'password',
           placeholder: 'Password'
         },
-        value: 'tester012018',
+        value: '',
         validation: {
           required: true,
           minLength: 6
         },
-        valid: true,
+        valid: false,
         errors: [],
         touched: false
       }
